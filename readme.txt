@@ -25,9 +25,6 @@ Below I've laid out some information/instructions to help you get started.
 	- Mission Complete sound - ZoneCapped
 	- Mission Fail sound - ZoneLost
 	
-4) This mod uses a increased NPC spawn rate (for demonstation) using data/GlobalEvents.sbc. This is not necessary, 
-	but you may find it useful.
-
-5) This mod comes with all NPC grids/factions packaged inside. However, when setting up config.cs, you can specify 
+4) This mod comes with all NPC grids/factions packaged inside. However, when setting up config.cs, you can specify 
 	factions or grids from another NPC mod IF that mod is present and loaded before config.cs. If you do this, I highly
 	recommend making the mod you reference a dependency to avoid bugs.
