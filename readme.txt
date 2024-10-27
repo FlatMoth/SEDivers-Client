@@ -21,7 +21,7 @@ Below I've laid out some information/instructions to help you get started.
 	- Ships omitted will not score points
 	- Weapons put into config.cs will be available to be received via stratagem
 	
-3) Mission Complete/Fail sounds can be swapped by overriding the sound subtypes in /Data/Audio_gui.sbc
+3) Mission Complete/Fail sounds can be swapped by overriding the sound subtypes in /Data/Audio_gui.sbc. Alternatively, delete /Data/Audio_gui.sbc to use defaults.
 	- Mission Complete sound - ZoneCapped
 	- Mission Fail sound - ZoneLost
 	
