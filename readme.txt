@@ -27,7 +27,4 @@ Below I've laid out some information/instructions to help you get started.
 	- Mission Complete sound - ZoneCapped
 	- Mission Fail sound - ZoneLost
 	
-5) This mod comes with basic faction implementation inside, and supports any content you may add to it directly to this mod. 
-	However, when setting up config.cs, you can specify 
-	factions or grids from another NPC mod IF that mod is present and loaded before config.cs. If you do this, I highly
-	recommend making the mod you reference a dependency to avoid bugs.
+5) This mod comes with basic faction implementation inside, and supports any content you may add to it directly to this mod. However, when setting up config.cs, you can specify factions or grids from another NPC mod IF that mod is present and loaded before config.cs. If you do this, I highly recommend making the mod you reference a dependency to avoid bugs.
