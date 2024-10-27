@@ -9,7 +9,7 @@ Below I've laid out some information/instructions to help you get started.
 
 1) copy the /Data/scripts folder into your mod's /Data folder to get started
 
-2) in every single .cs file, there should be a line that says "namespace SEDclient {". Replace the "SEDclient" portion of this line with a custom name in every .cs file
+2) in every single .cs file, there should be a line that says "namespace SEDclient {". Replace the "SEDclient" portion of this line with your mod name in every .cs file
 
 3) Use the config.cs in /Data/scripts to set up factions, hand weapons, and ships
 	- Enemy Factions put in to config.cs will be constrained to their territory
