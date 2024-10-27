@@ -21,7 +21,7 @@ Below I've laid out some information/instructions to help you get started.
 		- stations 0-6.5K blocks - 5 pts
 		- stations 6.5K+ blocks - 10 pts
 	- Ships omitted will not score points
-	- Weapons put into config.cs will be available to be received via stratagem
+	- (coming soon™) Weapons put into config.cs will be available to be received via stratagem
 	
 4) Mission Complete/Fail sounds can be swapped by overriding the sound subtypes in /Data/Audio_gui.sbc. Alternatively, delete /Data/Audio_gui.sbc to use defaults.
 	- Mission Complete sound - ZoneCapped
